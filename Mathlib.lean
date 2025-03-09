@@ -1,5 +1,3 @@
-import Std
-import Batteries
 import docs
 
 
