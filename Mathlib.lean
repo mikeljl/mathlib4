@@ -1,10 +1,7 @@
 import Std
 import Batteries
-import Mathlib.Algebra.AddConstMap.Basic
 import docs
-import Mathlib.Init
-import Mathlib.Tactic
-import Archive
+
 
 
 
